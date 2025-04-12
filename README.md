@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @raamir333
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Machine Learning and Computer Science
+- 👋 Hi, I’m Amir Hossein
+- 👀 I’m interested in Programming especial competitve programming.
+- 🌱 I’m currently programming java projects.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 😄 Pronouns: ...
