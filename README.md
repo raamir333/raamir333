@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amir Hossein
 - 👀 I’m interested in Programming especially competitive programming.
-- 🌱 I’m currently programming java projects.
+- 🌱 I’m currently programming.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 😄 Pronouns: ...
